@@ -25,12 +25,12 @@
             "id": "419b587a4c5d1618",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md"
+                "file": "Pasted image 20241020005135.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-19 22.50.26.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241020005135"
             }
           }
         ],
@@ -172,19 +172,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "419b587a4c5d1618",
+  "active": "98dd112b24d7da5f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-19 23.58.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
     "create a link.md",
     "Pasted image 20241020005144.png",
     "Pasted image 20241020005135.png",
-    "Untitled.md",
-    "Welcome.md",
-    "LaTeX.md",
-    "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
     "Pasted image 20241020001039.png",
+    "LaTeX.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-19 23.58.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
+    "Welcome.md",
+    "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
     "README.md",
     "Excalidraw",
     "Untitled"
