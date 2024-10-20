@@ -11,10 +11,12 @@
             "id": "7e9b34036fdfc90f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-19 22.47.46.excalidraw"
             }
           }
         ]
@@ -157,14 +159,14 @@
   },
   "active": "7e9b34036fdfc90f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
+    "LaTeX.md",
+    "create a link.md",
     "Welcome.md",
     "Untitled.md",
     "README.md",
-    "LaTeX.md",
-    "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
     "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
     "Excalidraw",
-    "create a link.md",
     "Untitled"
   ]
 }
