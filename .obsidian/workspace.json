@@ -84,23 +84,9 @@
               "icon": "lucide-file",
               "title": "Aplicación de las ecuaciones diferenciales de 1e orden"
             }
-          },
-          {
-            "id": "baf2ef5e6208c3b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problema de hoy 23-10-24"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,8 +138,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,43 +235,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c5ea7288c39af21",
+  "active": "ba3b5bfa6103086a",
   "lastOpenFiles": [
-    "Circuitos Eléctricos/Problema2_23-10-24.md",
-    "Circuitos Eléctricos/Problema1_23-10-24.md",
-    "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
-    "Circuitos Eléctricos/Problema.md",
-    "Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
-    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
+    "create a link.md",
     "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
+    "Untitled.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "README.md",
+    "Pasted image 20241021131921.png",
+    "Pasted image 20241020005144.png",
+    "Pasted image 20241023122719.png",
+    "Pasted image 20241023130526.png",
+    "Pasted image 20241023130941.png",
     "Pasted image 20241023134343.png",
     "Ecuaciones diferenciales/Circuitos eléctricos.md",
+    "Circuitos Eléctricos/Problema.md",
+    "Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
+    "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
+    "Circuitos Eléctricos/Problema1_23-10-24.md",
+    "Circuitos Eléctricos/Problema2_23-10-24.md",
+    "Ecuaciones diferenciales/Problemas de diluciones.md",
+    "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md",
+    "Ecuaciones diferenciales/Ejemplo 9.11.md",
+    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
     "Untitled 2.md",
     "Circuitos Eléctricos",
-    "Ecuaciones diferenciales/Problemas de diluciones.md",
-    "Pasted image 20241023130941.png",
-    "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md",
     "Excalidraw/Drawing 2024-10-20 01.27.16.excalidraw.md",
-    "Pasted image 20241023130526.png",
     "Untitled 1.md",
-    "Ecuaciones diferenciales/Ejemplo 9.11.md",
-    "create a link.md",
-    "Welcome.md",
-    "Pasted image 20241023122719.png",
     "Excalidraw/Untitled.md",
     "LaTeX.md",
     "Algoritmia/Binary Search.md",
     "Algoritmia",
     "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
-    "Pasted image 20241021131921.png",
     "Pasted image 20241020001039.png",
     "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
     "Ecuaciones diferenciales",
     "Analisis_Diseño_Algoritmos",
-    "Untitled.md",
-    "README.md",
     "Pasted image 20241020005135.png",
-    "Pasted image 20241020005144.png",
     "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
     "Excalidraw/Drawing 2024-10-19 23.58.56.excalidraw.md",
     "Excalidraw"
