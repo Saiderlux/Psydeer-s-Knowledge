@@ -4,36 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "6d433b50beaeabf7",
+        "id": "b01fa7798a7639b1",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9b34036fdfc90f",
+            "id": "56766ce59a37177e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-20 01.27.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-20 01.27.16.excalidraw"
+            }
+          },
+          {
+            "id": "e7972818e66650cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-23 12.23.17.excalidraw"
+            }
+          },
+          {
+            "id": "865fcdd76c24c581",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create a link.md",
+                "file": "Ecuaciones diferenciales/Circuitos eléctricos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create a link"
+              "title": "Circuitos eléctricos"
             }
           },
           {
-            "id": "4307872dd8d3e3cc",
+            "id": "91727fb65cbb5cf7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Pasted image 20241020005135.png"
+                "file": "Circuitos Eléctricos/Problema1_23-10-24.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241020005135"
+              "icon": "excalidraw-icon",
+              "title": "Problema1_23-10-24"
+            }
+          },
+          {
+            "id": "d4e6a628b84a7149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circuitos Eléctricos/Problema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problema"
+            }
+          },
+          {
+            "id": "ba3b5bfa6103086a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aplicación de las ecuaciones diferenciales de 1e orden"
+            }
+          },
+          {
+            "id": "baf2ef5e6208c3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problema de hoy 23-10-24"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +152,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,13 +220,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "137585a7e4cd2c71",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,24 +246,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98dd112b24d7da5f",
+  "active": "4c5ea7288c39af21",
   "lastOpenFiles": [
+    "Circuitos Eléctricos/Problema2_23-10-24.md",
+    "Circuitos Eléctricos/Problema1_23-10-24.md",
+    "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
+    "Circuitos Eléctricos/Problema.md",
+    "Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
+    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
+    "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
+    "Pasted image 20241023134343.png",
+    "Ecuaciones diferenciales/Circuitos eléctricos.md",
+    "Untitled 2.md",
+    "Circuitos Eléctricos",
+    "Ecuaciones diferenciales/Problemas de diluciones.md",
+    "Pasted image 20241023130941.png",
+    "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-20 01.27.16.excalidraw.md",
+    "Pasted image 20241023130526.png",
+    "Untitled 1.md",
+    "Ecuaciones diferenciales/Ejemplo 9.11.md",
     "create a link.md",
-    "Pasted image 20241020005144.png",
-    "Pasted image 20241020005135.png",
-    "Pasted image 20241020001039.png",
-    "LaTeX.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-19 23.58.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
     "Welcome.md",
+    "Pasted image 20241023122719.png",
+    "Excalidraw/Untitled.md",
+    "LaTeX.md",
+    "Algoritmia/Binary Search.md",
+    "Algoritmia",
     "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
+    "Pasted image 20241021131921.png",
+    "Pasted image 20241020001039.png",
+    "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
+    "Ecuaciones diferenciales",
+    "Analisis_Diseño_Algoritmos",
+    "Untitled.md",
     "README.md",
-    "Excalidraw",
-    "Untitled"
+    "Pasted image 20241020005135.png",
+    "Pasted image 20241020005144.png",
+    "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-19 23.58.56.excalidraw.md",
+    "Excalidraw"
   ]
 }
