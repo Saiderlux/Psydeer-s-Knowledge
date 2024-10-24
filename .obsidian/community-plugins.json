@@ -1,5 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-diagrams-net",
-  "obsidian-git"
+  "quick-latex",
+  "obsidian-git",
+  "ink",
+  "obsidian-excalidraw-plugin",
+  "tldraw"
 ]

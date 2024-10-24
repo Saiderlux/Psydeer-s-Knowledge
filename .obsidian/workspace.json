@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56766ce59a37177e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-20 01.27.16.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-20 01.27.16.excalidraw"
-            }
-          },
-          {
-            "id": "e7972818e66650cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-23 12.23.17.excalidraw"
-            }
-          },
-          {
             "id": "865fcdd76c24c581",
             "type": "leaf",
             "state": {
@@ -43,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Circuitos eléctricos"
-            }
-          },
-          {
-            "id": "91727fb65cbb5cf7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Circuitos Eléctricos/Problema1_23-10-24.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Problema1_23-10-24"
             }
           },
           {
@@ -74,19 +38,33 @@
           {
             "id": "ba3b5bfa6103086a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
+                "file": "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Aplicación de las ecuaciones diferenciales de 1e orden"
+              "title": "Búsqueda de máximo y del mínimo"
+            }
+          },
+          {
+            "id": "b4fff7a6ac8b5c42",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-view",
+              "state": {
+                "file": "tldraw/Tldraw 2024-10-23 9.55PM.md"
+              },
+              "icon": "lucide-file",
+              "title": "Tldraw 2024-10-23 9.55PM"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,13 +179,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "tldraw/Tldraw 2024-10-23 9.55PM.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tldraw 2024-10-23 9.55PM"
             }
           },
           {
-            "id": "137585a7e4cd2c71",
+            "id": "15a5d18e441291b5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -232,13 +212,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "ba3b5bfa6103086a",
+  "active": "b4fff7a6ac8b5c42",
   "lastOpenFiles": [
-    "create a link.md",
+    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
+    "tldraw/Tldraw 2024-10-23 9.55PM.md",
+    "Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
+    "Ink/Drawing/2024.10.23 - 21.49pm.drawing",
+    "Ink/Writing/2024.10.23 - 21.49pm.writing",
+    "Ink/Writing",
+    "Tldraw 2024-10-23 9.49pm.md",
+    "tldraw/Tldraw 2024-10-23 9.48PM (0).md",
+    "tldraw/Tldraw 2024-10-23 9.48PM.md",
+    "tldraw",
+    "Ink/Drawing/2024.10.23 - 21.45pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Circuitos Eléctricos/Problema.md",
+    "Circuitos Eléctricos/Problema2_23-10-24.md",
     "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
+    "create a link.md",
     "Untitled.md",
     "Welcome.md",
     "Untitled.canvas",
@@ -250,15 +246,11 @@
     "Pasted image 20241023130941.png",
     "Pasted image 20241023134343.png",
     "Ecuaciones diferenciales/Circuitos eléctricos.md",
-    "Circuitos Eléctricos/Problema.md",
-    "Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
     "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
     "Circuitos Eléctricos/Problema1_23-10-24.md",
-    "Circuitos Eléctricos/Problema2_23-10-24.md",
     "Ecuaciones diferenciales/Problemas de diluciones.md",
     "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md",
     "Ecuaciones diferenciales/Ejemplo 9.11.md",
-    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
     "Untitled 2.md",
     "Circuitos Eléctricos",
     "Excalidraw/Drawing 2024-10-20 01.27.16.excalidraw.md",
@@ -269,12 +261,7 @@
     "Algoritmia",
     "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
     "Pasted image 20241020001039.png",
-    "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
     "Ecuaciones diferenciales",
-    "Analisis_Diseño_Algoritmos",
-    "Pasted image 20241020005135.png",
-    "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-19 23.58.56.excalidraw.md",
-    "Excalidraw"
+    "Pasted image 20241020005135.png"
   ]
 }
