@@ -1,4 +1,4 @@
-## Iterativo
+ ## Iterativo
 ```cpp
 int binaryIt(vector <int> a, int n){
 	int low=0;

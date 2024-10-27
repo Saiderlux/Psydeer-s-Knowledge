@@ -55,16 +55,68 @@
             "id": "b4fff7a6ac8b5c42",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "markdown",
               "state": {
-                "file": "tldraw/Tldraw 2024-10-23 9.55PM.md"
+                "file": "Ecuaciones diferenciales/Ecuación diferencial de Bernoulli.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tldraw 2024-10-23 9.55PM"
+              "title": "Ecuación diferencial de Bernoulli"
+            }
+          },
+          {
+            "id": "86fd99db18afded8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circuitos Eléctricos/Clase 25-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 25-10-24"
+            }
+          },
+          {
+            "id": "cfbde371f559a49b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Circuitos Eléctricos/Problema1_25-10-24.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Problema1_25-10-24"
+            }
+          },
+          {
+            "id": "953a890a7746b77e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Circuitos Eléctricos/Problema2_25-10-24.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Problema2_25-10-24"
+            }
+          },
+          {
+            "id": "679a7a3219924287",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Circuitos Eléctricos/Problema3_25-10-24.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Problema3_25-10-24"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -83,7 +135,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -120,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6357a59442b49f2d",
@@ -201,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,52 +268,53 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "b4fff7a6ac8b5c42",
+  "active": "679a7a3219924287",
   "lastOpenFiles": [
-    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
-    "tldraw/Tldraw 2024-10-23 9.55PM.md",
+    "Circuitos Eléctricos/Problema2_25-10-24.md",
+    "Circuitos Eléctricos/Problema3_25-10-24.md",
+    "Circuitos Eléctricos/Problema1_25-10-24.md",
+    "Circuitos Eléctricos/Untitled.md",
+    "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
+    "Circuitos Eléctricos/Clase 25-10-24.md",
+    "Ink/Drawing/2024.10.25 - 12.17pm.drawing",
     "Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
+    "Algoritmia/Problemas binary search.md",
+    "Algoritmia/Binary Search.md",
+    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
+    "Ecuaciones diferenciales/Ecuación diferencial de Bernoulli.md",
+    "LaTeX.md",
+    "Ecuaciones diferenciales/Trayectorias ortogonales.md",
+    "Pasted image 20241024131032.png",
+    "Ecuaciones diferenciales/Drawing 2024-10-24 13.08.19.excalidraw.md",
+    "Ink/Drawing/2024.10.24 - 13.07pm.drawing",
+    "Ecuaciones diferenciales/Problemas de crecimiento y decrecimiento.md",
     "Ink/Drawing/2024.10.23 - 21.49pm.drawing",
     "Ink/Writing/2024.10.23 - 21.49pm.writing",
-    "Ink/Writing",
+    "Ink/Drawing/2024.10.24 - 7.37am.drawing",
+    "Ink/Drawing/2024.10.23 - 21.45pm.drawing",
+    "Ecuaciones diferenciales/Ejemplo 9.11.md",
+    "Ecuaciones diferenciales/Circuitos eléctricos.md",
+    "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md",
+    "Ecuaciones diferenciales/Problemas de diluciones.md",
+    "Circuitos Eléctricos/Problema.md",
+    "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
     "Tldraw 2024-10-23 9.49pm.md",
+    "tldraw/Tldraw 2024-10-23 9.55PM.md",
+    "Ink/Writing",
     "tldraw/Tldraw 2024-10-23 9.48PM (0).md",
     "tldraw/Tldraw 2024-10-23 9.48PM.md",
     "tldraw",
-    "Ink/Drawing/2024.10.23 - 21.45pm.drawing",
     "Ink/Drawing",
     "Ink",
-    "Circuitos Eléctricos/Problema.md",
     "Circuitos Eléctricos/Problema2_23-10-24.md",
-    "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
-    "create a link.md",
-    "Untitled.md",
-    "Welcome.md",
     "Untitled.canvas",
-    "README.md",
     "Pasted image 20241021131921.png",
     "Pasted image 20241020005144.png",
     "Pasted image 20241023122719.png",
     "Pasted image 20241023130526.png",
     "Pasted image 20241023130941.png",
     "Pasted image 20241023134343.png",
-    "Ecuaciones diferenciales/Circuitos eléctricos.md",
-    "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
-    "Circuitos Eléctricos/Problema1_23-10-24.md",
-    "Ecuaciones diferenciales/Problemas de diluciones.md",
-    "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md",
-    "Ecuaciones diferenciales/Ejemplo 9.11.md",
-    "Untitled 2.md",
-    "Circuitos Eléctricos",
-    "Excalidraw/Drawing 2024-10-20 01.27.16.excalidraw.md",
-    "Untitled 1.md",
-    "Excalidraw/Untitled.md",
-    "LaTeX.md",
-    "Algoritmia/Binary Search.md",
-    "Algoritmia",
-    "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
     "Pasted image 20241020001039.png",
-    "Ecuaciones diferenciales",
     "Pasted image 20241020005135.png"
   ]
 }
