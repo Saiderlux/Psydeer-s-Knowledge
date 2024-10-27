@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create a link.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create a link"
+              "title": "LaTeX"
             }
           },
           {
@@ -171,21 +171,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98dd112b24d7da5f",
+  "active": "7e9b34036fdfc90f",
   "lastOpenFiles": [
-    "create a link.md",
-    "Pasted image 20241020005144.png",
-    "Pasted image 20241020005135.png",
     "Pasted image 20241020001039.png",
-    "LaTeX.md",
+    "Pasted image 20241020005135.png",
+    "Pasted image 20241020005144.png",
+    "Welcome.md",
+    "README.md",
     "Untitled.md",
+    "LaTeX.md",
+    "create a link.md",
+    "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
     "Excalidraw/Drawing 2024-10-19 22.50.26.excalidraw.md",
     "Excalidraw/Drawing 2024-10-19 23.58.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-20 00.50.11.excalidraw.md",
-    "Welcome.md",
     "Excalidraw/Drawing 2024-10-19 22.47.46.excalidraw.md",
-    "README.md",
     "Excalidraw",
-    "Untitled"
+    "Untitled"1
   ]
 }
