@@ -121,6 +121,7 @@ Resolviendo este sistema, obtenemos los valores de $c_1, c_2, c_3$, para expresa
 $$c_1 =-1, \quad c_2 = 3, \quad c_3=16$$
 Por lo tanto, sustituyendo tenemos:
 $$T(n)=-(-3)^{n}+3(-2)^{n}+16(4)^{n}$$Dado que el término dominante en esta expresión es $(4)^n$ la cota asintótica de $T(n)$ es:$$\Theta(4^{n})$$
+$$$$
 ## Ejercicio 4
 $$T(n)=5T(n-2)+3T(n-1)$$
 Con $$T(1)=2 \text{ y } T(2)=-3$$

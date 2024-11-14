@@ -1,0 +1,3 @@
+Es un método general de análisis de circuitos en donde los voltajes son las incógnitas que deben obtenerse.
+Puesto que un voltaje se define como el existente entre dos nodos, es conveniente seleccionar el nodo que sea base y luego asociar un voltaje a cada uno de los nodos independientes. 
+Calculando los voltajes se determina la respuesta en corriente en cada elemento de ser necesario. Se emplea ley de Kirchhoff de corriente para el análisis de nodos.

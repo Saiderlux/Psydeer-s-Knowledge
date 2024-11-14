@@ -4,135 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "b01fa7798a7639b1",
+        "id": "5e973c059eab8b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "865fcdd76c24c581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones diferenciales/Circuitos eléctricos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Circuitos eléctricos"
-            }
-          },
-          {
-            "id": "d4e6a628b84a7149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisis_Diseño_Algoritmos/Ejercicios 08. Recurrencias lineales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejercicios 08. Recurrencias lineales"
-            }
-          },
-          {
-            "id": "ba3b5bfa6103086a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Búsqueda de máximo y del mínimo"
-            }
-          },
-          {
-            "id": "b4fff7a6ac8b5c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones diferenciales/Ecuación diferencial de Bernoulli.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ecuación diferencial de Bernoulli"
-            }
-          },
-          {
-            "id": "86fd99db18afded8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones diferenciales/Ejemplo 9.11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejemplo 9.11"
-            }
-          },
-          {
-            "id": "cfbde371f559a49b",
+            "id": "66b415050ab50b60",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Circuitos Eléctricos/Problema1_25-10-24.md"
+                "file": "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 13.22.23.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Problema1_25-10-24"
+              "title": "Drawing 2024-11-08 13.22.23.excalidraw"
             }
           },
           {
-            "id": "953a890a7746b77e",
+            "id": "6446956d74546f84",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Circuitos Eléctricos/Problema2_25-10-24.md"
+                "file": "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 19.39.32.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Problema2_25-10-24"
+              "title": "Drawing 2024-11-13 19.39.32.excalidraw"
             }
           },
           {
-            "id": "679a7a3219924287",
+            "id": "f8d0563593e4b134",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Analisis_Diseño_Algoritmos/Ejercicios 08. Recurrencias lineales.md",
-                "mode": "source",
-                "source": false
+                "file": "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.20.12.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Ejercicios 08. Recurrencias lineales"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-13 20.20.12.excalidraw"
             }
           },
           {
-            "id": "3e4a32f536ebaa84",
+            "id": "152c7ed43c4f025b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Analisis_Diseño_Algoritmos/Ejercicios 08. Recurrencias lineales.md",
-                "mode": "source",
-                "source": false
+                "file": "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.34.59.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Ejercicios 08. Recurrencias lineales"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-13 20.34.59.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,54 +208,54 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "86fd99db18afded8",
+  "active": "152c7ed43c4f025b",
   "lastOpenFiles": [
-    "Ecuaciones diferenciales/Problemas de diluciones.md",
-    "Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
-    "Ecuaciones diferenciales/Ejemplo 9.11.md",
-    "Ecuaciones diferenciales/Circuitos eléctricos.md",
-    "Ecuaciones diferenciales/Problemas de crecimiento y decrecimiento.md",
-    "Analisis_Diseño_Algoritmos/Ejercicios 08. Recurrencias lineales.md",
-    "Analisis_Diseño_Algoritmos/Ejercicios 9. Análisis de algoritmos recursivos.md",
-    "Circuitos Eléctricos/Clase 25-10-24.md",
-    "Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
-    "Pasted image 20241027182202.png",
-    "Pasted image 20241027182145.png",
-    "Pasted image 20241027175953.png",
-    "Pasted image 20241027175925.png",
-    "Circuitos Eléctricos/Problema.md",
-    "Circuitos Eléctricos/Problema3_25-10-24.md",
-    "Circuitos Eléctricos/Problema2_25-10-24.md",
-    "Circuitos Eléctricos/Problema1_25-10-24.md",
-    "Circuitos Eléctricos/Untitled.md",
-    "Ink/Drawing/2024.10.25 - 12.17pm.drawing",
-    "Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
-    "Algoritmia/Problemas binary search.md",
-    "Algoritmia/Binary Search.md",
-    "Ecuaciones diferenciales/Ecuación diferencial de Bernoulli.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.20.12.excalidraw.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.34.59.excalidraw.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 19.39.32.excalidraw.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 12.37.32.excalidraw.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Ejemplo_ley_de_nodos.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 13.22.23.excalidraw.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Untitled 1.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Reducción de orden.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.13 - 19.06pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.13 - 19.04pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.13 - 18.42pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Drawing/2024.11.13 - 18.41pm.drawing",
     "LaTeX.md",
-    "Ecuaciones diferenciales/Trayectorias ortogonales.md",
-    "Pasted image 20241024131032.png",
-    "Ecuaciones diferenciales/Drawing 2024-10-24 13.08.19.excalidraw.md",
-    "Ink/Drawing/2024.10.24 - 13.07pm.drawing",
-    "Ink/Drawing/2024.10.23 - 21.49pm.drawing",
-    "Ink/Writing/2024.10.23 - 21.49pm.writing",
-    "Ink/Drawing/2024.10.24 - 7.37am.drawing",
-    "Ink/Drawing/2024.10.23 - 21.45pm.drawing",
-    "Ecuaciones diferenciales/Drawing 2024-10-23 12.23.17.excalidraw.md",
-    "Circuitos Eléctricos/Problema de hoy 23-10-24.md",
-    "Tldraw 2024-10-23 9.49pm.md",
-    "tldraw/Tldraw 2024-10-23 9.55PM.md",
-    "Ink/Writing",
-    "tldraw/Tldraw 2024-10-23 9.48PM (0).md",
-    "tldraw",
-    "Ink/Drawing",
-    "Ink",
-    "Untitled.canvas",
-    "Pasted image 20241021131921.png",
-    "Pasted image 20241020005144.png",
-    "Pasted image 20241023122719.png",
-    "Pasted image 20241023130526.png",
-    "Pasted image 20241023130941.png"
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Dijkstra.md",
+    "Road_To_ICPC/Contest_Algortmia.md",
+    "Road_To_ICPC/Algoritmia/DFS y BFS.md",
+    "Road_To_ICPC/Algoritmia/Grafos_Apunte.md",
+    "Road_To_ICPC/Algoritmia/Grafos.md",
+    "Road_To_ICPC/Algoritmia/Binary Search.md",
+    "Road_To_ICPC/Algoritmia/Ejemplo de DP.md",
+    "Road_To_ICPC/Algoritmia/Problemas binary search.md",
+    "Road_To_ICPC/Algoritmia/Set y Map.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Continuación.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.27pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.25pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.21pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.19pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Drawing/2024.11.4 - 12.51pm.drawing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Drawing/2024.11.4 - 12.20pm.drawing",
+    "Tercer_Semestre/Ecuaciones diferenciales/Ecuaciones diferenciales lineales..md",
+    "Tercer_Semestre/Circuitos Eléctricos/Problema de hoy 23-10-24.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Análisis de nodos..md",
+    "Tercer_Semestre/Circuitos Eléctricos/Problema2_25-10-24.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Problema1_25-10-24.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Problema3_25-10-24.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Untitled.md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103223006.png",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103222916.png",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103215314.png",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103215229.png",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103215208.png",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103215126.png",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/ANEXOS/Pasted image 20241029215514.png",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/ANEXOS/Pasted image 20241029215505.png",
+    "Tercer_Semestre/Circuitos Eléctricos/ANEXOS/Pasted image 20241028193747.png",
+    "Pasted image 20241027182202.png",
+    "Untitled.canvas"
   ]
 }

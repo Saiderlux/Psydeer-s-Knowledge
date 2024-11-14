@@ -1,1 +1,0 @@
-Para los siguientes 6 algoritmos, determine la cota de complejidad O (cota superior ajustada) bajo el principio del peor caso de cada algoritmo. Indique a detalle el procedimiento de obtención de la cota.
