@@ -1,95 +1,68 @@
 {
   "main": {
-    "id": "e2d3c2ea882372f2",
+    "id": "742ef05fb005405d",
     "type": "split",
     "children": [
       {
-        "id": "dfdbbafd38308701",
+        "id": "5fc2d0f2304f0dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "6a984f059a685ba4",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.21pm.writing",
-                "staged": false
-              },
-<<<<<<< HEAD
-              "icon": "git-pull-request",
-              "title": "Diff View (2024.11.4 - 12.21pm.writing)"
-=======
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-08 13.22.23.excalidraw"
-            }
-          },
-          {
-            "id": "6446956d74546f84",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 19.39.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-13 19.39.32.excalidraw"
-            }
-          },
-          {
-            "id": "f8d0563593e4b134",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.20.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-13 20.20.12.excalidraw"
-            }
-          },
-          {
-            "id": "152c7ed43c4f025b",
+            "id": "5f41b63093d972a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer_Semestre/Ecuaciones diferenciales/Ejemplo 9.11.md",
+                "file": "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejemplo 9.11"
->>>>>>> 9464c4cc228aa57b50c83ec34baf774da90f0e66
+              "title": "Teoría de las soluciones"
+            }
+          },
+          {
+            "id": "56b2db9a10b49256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teoría de las soluciones"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "24663d99959425b1",
+    "id": "217ed096631353a8",
     "type": "split",
     "children": [
       {
-        "id": "0291033e57366487",
+        "id": "e9adce6c8a79e737",
         "type": "tabs",
         "children": [
           {
-            "id": "7d52d17f25849532",
+            "id": "10a95a90d2f9474c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "174ce812fba90981",
+            "id": "22433c34e7e9644e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -106,7 +79,7 @@
             }
           },
           {
-            "id": "7b82b99825310f55",
+            "id": "bbf4a2b7ca47cb70",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,20 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "39ef5f14694e6b33",
+    "id": "1ff90492ba30d8d4",
     "type": "split",
     "children": [
       {
-        "id": "928371424bdd1511",
+        "id": "d6ef505fe1dead19",
         "type": "tabs",
         "children": [
           {
-            "id": "2d87606138f97013",
+            "id": "f980ed3dc885327d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuitos Eléctricos/Problema2_25-10-24.md",
+                "file": "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Problema2_25-10-24"
+              "title": "Backlinks for Teoría de las soluciones"
             }
           },
           {
-            "id": "67ac29f22131246a",
+            "id": "dc03679c26ffb757",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuitos Eléctricos/Problema2_25-10-24.md",
+                "file": "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Problema2_25-10-24"
+              "title": "Outgoing links from Teoría de las soluciones"
             }
           },
           {
-            "id": "4bcacf4c194f87b4",
+            "id": "f6dd291b286fcfb1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,19 +149,19 @@
             }
           },
           {
-            "id": "d8898da48d26f5a5",
+            "id": "520b3591327132cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuitos Eléctricos/Problema2_25-10-24.md"
+                "file": "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Problema2_25-10-24"
+              "title": "Outline of Teoría de las soluciones"
             }
           },
           {
-            "id": "90f479445ccd2bae",
+            "id": "beed7a9c005bdb09",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -217,75 +190,21 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "90f479445ccd2bae",
+  "active": "56b2db9a10b49256",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "tldraw/Tldraw 2024-10-23 9.55PM.md",
-    "Pasted image 20241027175953.png",
-    "Pasted image 20241027182145.png",
-    "Pasted image 20241027182202.png",
-    "Pasted image 20241024131032.png",
-    "Pasted image 20241023122719.png",
-    "Pasted image 20241023130526.png",
-    "Pasted image 20241023130941.png",
-    "Pasted image 20241023134343.png",
-    "Pasted image 20241027175925.png",
-=======
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 13.22.23.excalidraw.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/Problemas de diluciones.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 19.39.32.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.20.12.excalidraw.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.34.59.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 12.37.32.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Ejemplo_ley_de_nodos.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Untitled 1.md",
+    "Excalidraw/Drawing 2024-11-04 21.48.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-13 18.55.26.excalidraw.md",
+    "tldraw/Tldraw 2024-11-13 6.55PM.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Trayectorias ortogonales.md",
     "Tercer_Semestre/Ecuaciones diferenciales/Reducción de orden.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.13 - 19.06pm.writing",
->>>>>>> 9464c4cc228aa57b50c83ec34baf774da90f0e66
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.13 - 19.04pm.writing",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.25pm.writing",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.21pm.writing",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.19pm.writing",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Drawing/2024.11.13 - 18.41pm.drawing",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Drawing/2024.11.4 - 12.20pm.drawing",
-<<<<<<< HEAD
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Drawing/2024.11.4 - 12.51pm.drawing",
-    "Tercer_Semestre/Analisis_Diseño_Algoritmos/DInamic Program.md",
-    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios 9. Análisis de algoritmos recursivos.md",
-    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios 08. Recurrencias lineales.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.34.59.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.20.12.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-10-30 13.41.36.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-10-23 14.36.10.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 12.37.32.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 13.22.23.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 19.39.32.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Untitled 1.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Ejemplo_ley_de_nodos.md",
-    "conflict-files-obsidian-git.md",
-    "Circuitos Eléctricos/Problema2_25-10-24.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.6 - 13.03pm.writing",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.44pm.writing",
-    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.4 - 12.42pm.writing",
-=======
+    "Tercer_Semestre/Ecuaciones diferenciales/Problemas de diluciones.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Problemas de crecimiento y decrecimiento.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Ecuación diferencial de Bernoulli.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Ejemplo 9.11.md",
     "Tercer_Semestre/Ecuaciones diferenciales/Ecuaciones diferenciales lineales..md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema de hoy 23-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Análisis de nodos..md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema2_25-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema1_25-10-24.md",
->>>>>>> 9464c4cc228aa57b50c83ec34baf774da90f0e66
-    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103223006.png",
-    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/Ejercicios DIVIDE AND CONQUER.md",
-    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/Drawing 2024-10-31 09.09.34.excalidraw.md",
-    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/5. Cervantino.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Untitled.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema2_25-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema3_25-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema2_23-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema1_25-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema1_23-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema de hoy 23-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema.md"
+    "Tercer_Semestre/Ecuaciones diferenciales/Continuación.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Circuitos eléctricos.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md"
   ]
 }
