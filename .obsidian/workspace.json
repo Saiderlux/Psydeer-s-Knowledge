@@ -47,12 +47,14 @@
             "id": "152c7ed43c4f025b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.34.59.excalidraw.md"
+                "file": "Tercer_Semestre/Ecuaciones diferenciales/Ejemplo 9.11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-13 20.34.59.excalidraw"
+              "icon": "lucide-file",
+              "title": "Ejemplo 9.11"
             }
           }
         ],
@@ -210,12 +212,14 @@
   },
   "active": "152c7ed43c4f025b",
   "lastOpenFiles": [
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.20.12.excalidraw.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.34.59.excalidraw.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 13.22.23.excalidraw.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Problemas de diluciones.md",
     "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 19.39.32.excalidraw.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.20.12.excalidraw.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
+    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-13 20.34.59.excalidraw.md",
     "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 12.37.32.excalidraw.md",
     "Tercer_Semestre/Circuitos Eléctricos/Ejemplo_ley_de_nodos.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Drawing 2024-11-08 13.22.23.excalidraw.md",
     "Tercer_Semestre/Circuitos Eléctricos/Untitled 1.md",
     "Tercer_Semestre/Ecuaciones diferenciales/Reducción de orden.md",
     "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.13 - 19.06pm.writing",
@@ -244,8 +248,6 @@
     "Tercer_Semestre/Circuitos Eléctricos/Análisis de nodos..md",
     "Tercer_Semestre/Circuitos Eléctricos/Problema2_25-10-24.md",
     "Tercer_Semestre/Circuitos Eléctricos/Problema1_25-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Problema3_25-10-24.md",
-    "Tercer_Semestre/Circuitos Eléctricos/Untitled.md",
     "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103223006.png",
     "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103222916.png",
     "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios_Divide_conquer/ANEXOS/Pasted image 20241103215314.png",
