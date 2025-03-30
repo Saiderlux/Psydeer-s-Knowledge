@@ -1,82 +1,79 @@
 {
   "main": {
-    "id": "742ef05fb005405d",
+    "id": "582f8d18b182b17c",
     "type": "split",
     "children": [
       {
-        "id": "5fc2d0f2304f0dbe",
+        "id": "5e973c059eab8b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "5f41b63093d972a1",
+            "id": "ca51a00ffd6982b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
+                "file": "Cuarto_semestre/Probabilidad y estadística.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teoría de las soluciones"
+              "title": "Probabilidad y estadística"
             }
           },
           {
-            "id": "56b2db9a10b49256",
+            "id": "36a0d4463b4c8fd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teoría de las soluciones"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "9b5c9b506edf4df2",
+            "id": "d8c4a1d75d393936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "LaTeX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "LaTeX"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "217ed096631353a8",
+    "id": "f5970a8bee3f5b49",
     "type": "split",
     "children": [
       {
-        "id": "e9adce6c8a79e737",
+        "id": "fcbfa27996cc2c6d",
         "type": "tabs",
         "children": [
           {
-            "id": "10a95a90d2f9474c",
+            "id": "98dd112b24d7da5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "22433c34e7e9644e",
+            "id": "4c5ea7288c39af21",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +90,7 @@
             }
           },
           {
-            "id": "bbf4a2b7ca47cb70",
+            "id": "6a96cc5bc33554ec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +103,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "1ff90492ba30d8d4",
+    "id": "6357a59442b49f2d",
     "type": "split",
     "children": [
       {
-        "id": "d6ef505fe1dead19",
+        "id": "a67ea7475b5a5bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "f980ed3dc885327d",
+            "id": "77595c27e5c778cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +128,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "dc03679c26ffb757",
+            "id": "cb040d93520d8fb0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f6dd291b286fcfb1",
+            "id": "04821b7eab5afea0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,19 +158,19 @@
             }
           },
           {
-            "id": "520b3591327132cc",
+            "id": "3bf5a707bab12029",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "tldraw/Tldraw 2024-10-23 9.55PM.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Tldraw 2024-10-23 9.55PM"
             }
           },
           {
-            "id": "beed7a9c005bdb09",
+            "id": "15a5d18e441291b5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,27 +194,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "9b5c9b506edf4df2",
+  "active": "36a0d4463b4c8fd8",
   "lastOpenFiles": [
-    "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-11-04 21.48.52.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-13 18.55.26.excalidraw.md",
-    "tldraw/Tldraw 2024-11-13 6.55PM.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/Trayectorias ortogonales.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/Reducción de orden.md",
+    "README.md",
+    "Pasted image 20241027182202.png",
+    "Pasted image 20241027182145.png",
+    "Pasted image 20241027175953.png",
+    "Pasted image 20241027175925.png",
+    "Pasted image 20241024131032.png",
+    "Pasted image 20241023134343.png",
+    "Pasted image 20241023130941.png",
+    "Pasted image 20241023130526.png",
+    "Pasted image 20241023122719.png",
+    "Pasted image 20241021131921.png",
+    "Cuarto_semestre/Espacio muestral.md",
+    "Cuarto_semestre/Probabilidad y estadística.md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Alvaro Obregon.md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios 11. Diseño de soluciones mediante programación dinámica (DP).md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Dijkstra.md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/DInamic Program.md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios 9. Análisis de algoritmos recursivos.md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Ejercicios 08. Recurrencias lineales.md",
+    "Tercer_Semestre/Analisis_Diseño_Algoritmos/Búsqueda de máximo y del mínimo.md",
     "Tercer_Semestre/Ecuaciones diferenciales/Problemas de diluciones.md",
+    "Cuarto_semestre",
     "Tercer_Semestre/Ecuaciones diferenciales/Problemas de crecimiento y decrecimiento.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Trayectorias ortogonales.md",
     "Tercer_Semestre/Ecuaciones diferenciales/Ecuación diferencial de Bernoulli.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/Ejemplo 9.11.md",
     "Tercer_Semestre/Ecuaciones diferenciales/Ecuaciones diferenciales lineales..md",
-    "Tercer_Semestre/Ecuaciones diferenciales/Continuación.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Teoría de las soluciones.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Cauchy-Euler.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Aplicaciones de las ecuaciones diferenciales lineales de 2do orden con coeficientes constantes.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Transformada de Laplace.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md",
     "Tercer_Semestre/Ecuaciones diferenciales/Circuitos eléctricos.md",
-    "Tercer_Semestre/Ecuaciones diferenciales/Aplicación de las ecuaciones diferenciales de 1e orden.md"
+    "Tercer_Semestre/Ecuaciones diferenciales/Ejemplo 9.11.md",
+    "LaTeX.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Método de los coeficientes indeterminados..md",
+    "Tercer_Semestre/Ecuaciones diferenciales/Variación de parametros.md",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.25 - 12.19pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.25 - 12.18pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.25 - 12.14pm.writing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Drawing/2024.11.25 - 12.14pm.drawing",
+    "Tercer_Semestre/Ecuaciones diferenciales/ANEXOS/Ink/Writing/2024.11.21 - 13.13pm.writing",
+    "Tercer_Semestre/Circuitos Eléctricos/ANEXOS/Ink/Writing/2024.11.20 - 13.48pm.writing",
+    "Tercer_Semestre/Circuitos Eléctricos/ANEXOS/Ink/Writing",
+    "Tercer_Semestre/Circuitos Eléctricos/ANEXOS/Ink",
+    "Tercer_Semestre/Circuitos Eléctricos/ANEXOS",
+    "Untitled.canvas"
   ]
 }
