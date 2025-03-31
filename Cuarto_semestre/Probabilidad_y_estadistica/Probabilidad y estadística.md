@@ -2,6 +2,7 @@ La probabilidad es una rama de las matemáticas que estudia los experimentos ale
 **¿Cuál es la probabilidad de que ocurra algo?**
 
 La estadística es una rama de las matemáticas que organiza, analiza, interpreta y presenta datos
+
 **¿Qué conclusiones podemos extraer de los datos observados?**
 
 
@@ -18,5 +19,3 @@ Son aquellos en los que no hay incertidumbre en los resultados.
 Modelos probabilísticos 
 No se conoce el resultado, ya que hay demás factores aleatorios que lo afectan.
 
-#### Espacio muestral
-El espacio muestral denotado por S, es el conjunto de todos os posibles resultados de dicho experimento.
