@@ -37,3 +37,16 @@ $$y=0 \rightarrow \frac{19}{27}$$
 $$M_{y}(t)=\frac{19}{27} e^{t(0)}+ \frac{8}{27}e^{t(1)}=\frac{19}{27} + \frac{8}{27}e^{t}$$
 ### Ejercicio 2
 Dos pelotas son lanzadas de tal manera que tiene la misma probabilidad caer en cualquiera de las cuatro canastas, las dos pelotas pueden caer en la misma canasta. Sea $X$ el número de canastas desocupadas al final del experimento, ¿Cuál es la función generativa de momentos de $X$?
+$$\left(\frac{1}{4}\right)\left(\frac{1}{4}\right)=\frac{1}{16}/$$
+$$\frac{1}{16} + \frac{1}{16} + \frac{1}{16} + \frac{1}{16}= \frac{4}{16}$$
+$$M_{X}(t)=\frac{4}{16}e^{3t}+ \frac{12}{16}e^{2t}$$
+$$p(x)=\begin{cases}
+\frac{4}{16}, & \text{si } x = 3, \\
+\frac{12}{16}, & \text{si } x = 2.
+\end{cases}$$
+$$M'_{X}(t)=\frac{12}{16}e^{3t}+ \frac{24}{16}e^{2t}$$
+$$t=0$$
+$$\frac{12}{16} + \frac{24}{16}=\frac{36}{16} = \frac{9}{4}$$
+$$M''_{X}(t)=\frac{9}{4}e^{3t}+3e^{2t}$$
+$$t=0$$
+$$\frac{9}{4}+3=5.25$$
