@@ -18,4 +18,3 @@ Son aquellos en los que no hay incertidumbre en los resultados.
 
 Modelos probabilísticos 
 No se conoce el resultado, ya que hay demás factores aleatorios que lo afectan.
-
