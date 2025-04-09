@@ -9,3 +9,6 @@ Si un experimento aleatorio con espacio muestral $S$ se repite un número $n$ de
 $$P(A)=\frac{55}{100}=0.55$$
 
 "El enfoque clásico requiere que los eventos simples sean igualmente probables, mientras que el enfoque frecuentista requiere que $n$ sea muy grande"
+
+$$x^{2}+2x=0
+$$

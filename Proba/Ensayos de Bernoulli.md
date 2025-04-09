@@ -49,3 +49,24 @@ $$SSS=(0.25)(0.25)(0.25)=\frac{1}{64}$$
 $$f(x)=\begin{cases} \frac{63}{64} & x=0\\ \\
 \frac{1}{64} & x=1
 \end{cases}$$
+### Ejemplos
+La probabilidad de que un alumno se gane un punto extra es de 0.8 a partir de un volado. Si quedan los últimos 3 alumnos, ¿Cuál será la probabilidad de que solo a 2 de ellos se ganen el punto extra?
+
+
+| Dorantes | Horta | Rocha |
+| -------- | ----- | ----- |
+| Si       | Si    | No    |
+| SI       | No    | Si    |
+| No       | Si    | Si    |
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Proba/ANEXOS/Ink/Drawing/2025.4.8 - 8.51am.drawing",
+	"width": 878,
+	"aspectRatio": 2.398907103825137
+}
+```
+$P(2)=0.384$
+
+
