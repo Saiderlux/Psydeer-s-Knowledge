@@ -93,3 +93,23 @@ Una revista de noticias publica tres columnas tituladas "Arte" ($A$), "Libros" (
 | $A$  | $B$  | $C$  | $A\cap B$ | $A\cap C$ | $C\cap B$ | $A\cap B\cap C$ |
 | ---- | ---- | ---- | --------- | --------- | --------- | --------------- |
 | 0.14 | 0.23 | 0.37 | 0.08      | 0.09      | 0.13      | 0.05            |
+### Ejemplo 3
+Suponga que en la población general, hay 51% de hombres y 49% de mujeres, y que las proporciones de hombres y mujeres daltónicas son:
+
+
+|                        | Hombres $(B)$ | Mujeres $(B^{c})$ | Total |
+| ---------------------- | ------------- | ----------------- | ----- |
+| Daltónico $(A)$        | 0.04          | 0.002             | 0.042 |
+| No daltónico $(B^{c})$ | 0.47          | 0.488             | 0.958 |
+| Total                  | 0.51          | 0.49              | 1     |
+Si una persona se escoge al azar de entre esta población y se encuentra que es hombre ¿Cuál es la probabilidad de que sea daltónico?
+$$P(A\mid B)=\frac{P(A \cap B)}{P(B)}=7.84\%$$
+### Ejemplo 4
+Hay un grupo que 40% de los integrantes tiene cabello castaño, el 25% tiene ojos azules y el 15% tiene el cabello castaño y los ojos azules. 
+
+Para visualizar el ejemplo podemos utilizar [[Diagramas de Venn]]
+![[Pasted image 20250410182357.png]]
+Donde $$A=\text{Cabello castaño}=0.4$$$$B=\text{Ojos azules}=0.25$$
+$$A\cap B=\text{Cabello castaño y ojos azules}=0.15$$
+Si se selecciona una persona al azar y dicha persona tiene los ojos azules, ¿Cuál es la probabilidad de que tenga el cabello castaño?
+$$P(A\mid B)= \frac{P(A\cap B)}{P(B)}=\frac{0.15}{0.4}=0.375$$

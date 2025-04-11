@@ -19,3 +19,13 @@ A- Obtener al menos una águila $A=\{AA,AS,SA\}$
 $$P(A)=\frac{|A|}{|S|} = \frac{3}{4}= 75\%$$
 B- Obtener exactamente un águila $B=\{AS,SA\}$
 $$P(B)=\frac{|B|}{|S|}= \frac{2}{4}= 50\%$$
+Para vizualizarlo mejor podemos hacer uso de los [[Diagramas de árbol]]
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Cuarto_semestre/Probabilidad_y_estadistica/ANEXOS/Ink/Drawing/2025.4.10 - 18.05pm.drawing",
+	"width": 964,
+	"aspectRatio": 2.281944098193876
+}
+```
