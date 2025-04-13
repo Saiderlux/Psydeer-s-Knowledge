@@ -1,4 +1,4 @@
-La probabilidad de un evento $E$ se define como
+ La probabilidad de un evento $E$ se define como
 $$P(E)=\frac{\text{Número de casos favorables}}{\text{Número de casos totales en el espacio muestral}}$$
 ## Ejemplos
 ### Ejemplo 1
