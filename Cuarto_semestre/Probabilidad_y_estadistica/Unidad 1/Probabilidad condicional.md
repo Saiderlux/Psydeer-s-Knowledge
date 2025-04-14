@@ -100,7 +100,7 @@ Suponga que en la población general, hay 51% de hombres y 49% de mujeres, y que
 |                        | Hombres $(B)$ | Mujeres $(B^{c})$ | Total |
 | ---------------------- | ------------- | ----------------- | ----- |
 | Daltónico $(A)$        | 0.04          | 0.002             | 0.042 |
-| No daltónico $(B^{c})$ | 0.47          | 0.488             | 0.958 |
+| No daltónico $(A^{c})$ | 0.47          | 0.488             | 0.958 |
 | Total                  | 0.51          | 0.49              | 1     |
 Si una persona se escoge al azar de entre esta población y se encuentra que es hombre ¿Cuál es la probabilidad de que sea daltónico?
 $$P(A\mid B)=\frac{P(A \cap B)}{P(B)}=7.84\%$$

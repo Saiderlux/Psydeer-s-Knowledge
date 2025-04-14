@@ -11,9 +11,9 @@ Sean ($A$, $B$) y ($C$) tres eventos cualesquiera de un espacio muestral ($S$) a
 
 1. $$ P(\emptyset) = 0 $$  
 2. $$ P(A') = 1 - P(A) $$  
-3. $$ P(A \cup B) = P(A) + P(B) - P(A B) $$  
+3. $$ P(A \cup B) = P(A) + P(B) - P(A\cap B) $$  
 4.  
-   $$ P(A \cup B \cup C) = P(A) + P(B) + P(C) - P(AB) - P(AC) - P(BC) + P(ABC) $$  
+   $$ P(A \cup B \cup C) = P(A) + P(B) + P(C) - P(A\cap B) - P(A\cap C) - P(B\cap C) + P(A\cap B\cap C) $$  
 5.  
    $$  
    P\left( \bigcup_{i=1}^{k} A_i \right) = \sum_{i=1}^{k} P(A_i) - \sum_{i<j=2}^{k} P(A_i A_j)  + \sum_{i<j<r=3}^{k} P(A_i A_j A_r) + \dots + (-1)^{k-1} P\left( \bigcap_{i=1}^{k} A_i \right)  
