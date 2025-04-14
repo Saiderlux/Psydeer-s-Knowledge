@@ -76,7 +76,7 @@ $$P(M_{2}\cap G)=(0.3)(0.20)=0.06$$
 $$P(M_{1}\cap G)=(0.2)(0.10)=0.02$$
 $$\text{Sumando todos, obtenemos:}$$
 $$0.205\rightarrow =20.5\%$$
-3. SI un cliente regresa a la tienda con un reproductor DVD que necesita reparación dentro de garantía, ¿Cuál es la probabilidad de que sea un reproductor de la marca 1? ¿Un reproductor de la marca 2?¿Un reproductor de la marca 3?
+3. Si un cliente regresa a la tienda con un reproductor DVD que necesita reparación dentro de garantía, ¿Cuál es la probabilidad de que sea un reproductor de la marca 1? ¿Un reproductor de la marca 2?¿Un reproductor de la marca 3?
 Para la marca 1:
 $$P(M_1\mid G)=\frac{0.125}{0.205}\approx 0.6098\rightarrow 61\%$$
 
