@@ -86,3 +86,49 @@ $$T = \frac{2\pi}{\omega}$$
 
 El objetivo de un filtro en la fuente de alimentación es reducir en gran medida las fluctuaciones del voltaje de salida de un rectificador de media onda o de onda completa y producir un nivel casi constante de voltaje de CD.
 ![[Pasted image 20250427162700.png]]
+Un **condensador o capacitor** en un circuito **almacena energía en forma de campo eléctrico**. Su comportamiento ante señales variables es la base del filtrado.
+
+La idea clave es:
+
+🔵 **El capacitor "resiste" cambios lentos de voltaje (corriente continua), pero "permite pasar" cambios rápidos (corriente alterna de alta frecuencia).**
+![[Pasted image 20250427163918.png]]
+### Valor de rizo
+ **¿Qué mide el factor de rizo $r$?**
+
+Es un **indicador adimensional** de la “planitud” de la tensión continua tras el filtrado.
+
+- **Valor pequeño de $r$** → muy poca ondulación residual → salida bien suavizada.
+    
+- **Valor grande de $r$** → mucho rizado → la salida sigue siendo muy pulsante.
+-
+**Ecuación**
+$$r=\frac{V_{r}}{V_{cd}}$$
+- **$V_{r}$​ (Voltaje de rizo)**
+    - Se suele tomar como la **diferencia pico-a-pico** de la componente alterna que queda superpuesta a la componente continua.
+        
+    - En la figura se dibuja como la distancia entre el punto más alto y el más bajo de la pequeña “onda” que queda sobre la recta de $V_{\mathrm{cd}}$.
+    - $$V_{r}\approx \frac{I_{carga}}{fC} $$
+- **$V_{\mathrm{cd}}$​ (Valor medio o DC)**
+    - Es el **promedio** de la tensión de salida tras el filtro, es decir, la componente continua real que alimentará la carga.
+        
+    - Gráficamente, es el nivel sobre el cual “flota” el rizo.
+
+Para un rectificador de ondaa completa, con un filtro con capacitor a la entrada suficientemente alto, si $V_{\text{dc}}$ se halla muy cerca del valor del voltaje de pico rectificado de entrada, las expresiones para $V_{\text{dc}}$ y $V_{\text{r}}$ serán entonces como sigue
+
+$$V_{\text{dc}}=\left( 1- \frac{0.00417}{R_{L}C} \right) V_{\text{p(ent)}}$$
+$$V_{\text{r}}=\frac{0.0024}{R_{L}C}(V_{\text{p(ent)}})$$
+Donde: $V_{\text{p(ent)}}$ es el voltaje pico rectificado aplicado al filtro
+
+#### Anexos
+Cuando el capacitor del filtro se descara el voltaje en el capacitor es:
+$v_{C}=V_{\text{p(ent)}}e^\frac{-t}{RC}$
+![[Pasted image 20250427200711.png]]
+$$v_{\text{C(min)}}=V_{\text{p(ent)}}\left( 1-\frac{T}{RC} \right)$$
+- El Voltaje de rizo pico a pico es
+  $$V_{r(p-p)}=\frac{V_{\text{P(ent)}}T}{RC} $$
+donde $$T=\frac{1}{f}$$
+- EL valor del voltaje promedio, $V_{cd}$ es:
+  $$V_{\text{cd}}\left( 1- \frac{0.00417}{R_{L}C} \right)V_{\text{p(ent)}}$$
+- El voltaje de rizo pico es:$$V_{\text{r(p)}}=\frac{0.00833V_{\text{p(ent)}}}{2R_{L}C(\sqrt{3 })}$$
+- Concluyendo
+$$V_{\text{r(eficaz)}}=\frac{0.0024V_{\text{p(ent)}}}{R_{L}C}$$
