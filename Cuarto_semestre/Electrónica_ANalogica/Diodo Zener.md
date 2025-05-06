@@ -68,3 +68,29 @@ $$I_{R \text{ max}}=I_{ZM}+I_{L}$$
 Dado que $I_{L}$ está fija en $\frac{V_{Z}}{R_{L}}$ e $I_{ZM}$ es el valor máximo de $I_{Z}$, la $V_{i}$ máxima se define por
 $$V_{i \text{ max}}=V_{R \text{ max}}+V_{Z}$$
 $$V_{i \text{ max}}=I_{R \text{ max}}R+V_{Z}$$
+---
+3. Mantener fija la $V_{i}$ y variable la $R_{L}$
+- En este tipo de circuitos, debido al voltaje $V_{Z}$ existe un rango especifico de valores de resistencia (y por lo tanto de corriente de carga) que asegurará que el Zener se encuentre en el estado encendido.
+- Por otro lado, una resistencia de carga $R_{L}$ demasiado pequeño ocasionará un voltaje $V_{L}$ a través de la resistencia de carga menor que $V_{Z}$ y el dispositivo Zener estará apagado.
+- Para determinar la resistencia mínima de carga ($R_{Imin}$) de la figura, que encenderá el diodo Zener, simplemente se calcula el valor $R_{L}$ que ocasionará un voltaje de carga $V_{L}=V_{Z}$. Esto es:
+$$V_{L}=V_{Z}=\frac{R_{L}V_{i}}{R+R_{L}}$$
+![[Pasted image 20250505183539.png]]
+- Resolviendo para R_L, tenemos:
+$$R_{L \text{ min}}= \frac{RV_{Z}}{V_{i}- V_{Z}}$$
+- Para que el diodo Zener esté encendido se deberá escoger un valor de resistencia de carga $R_{L}$ mayor al obtenido en la ecuación anterior.
+- La ecuación anterior también define la $I_{L \text{ max}}$ como:
+$$I_{L \text{ max}}=\frac{V_{L}}{R_{L}}=\frac{V_{Z}}{R_{L \text{ min}}}$$
+- Una vez que el diodo Zener se encuentra en el estado encendio, el voltaje a través de R permanece fijo en:
+$$V_{R}=V_{i}-V_{Z}$$
+	e $I_{R}$ permanece fija en
+$$I_{R}=\frac{V_{R}}{R}$$
+- La corriente Zener es:
+$$I_{Z}= I_{R}-I_{L}$$
+$$\therefore I_{Z \text{ min}} \text{ cuando } I_{L \text{ max}}$$
+$$\text{y } I_{Z \text{ max}} \text{ cuando } I_{L \text{ min}}$$
+- Dado que $I_{R}$ es constante
+- Dado que $I_{Z}$ esta limitada a $I_{ZM}$ como se proporciona en la hoja de datos, afectará el rango de $R_{L}$ y por lo tanto de $I_{L}$
+- Sustituyendo $I_{ZM}$ por $I_{Z}$ se establece la $I_{L}$ mínima como:
+$$I_{L \text{ min}}=I_{R}-I_{ZM}$$
+- Y la resistencia de carga máxima es:
+$$R_{L \text{ max}}=\frac{V_{Z}}{I_{L \text{ min}}}$$
