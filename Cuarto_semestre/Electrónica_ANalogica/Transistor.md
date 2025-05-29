@@ -215,8 +215,3 @@ $$
 $$
 
 ---
-
-### Resultados
-
-- \(\displaystyle \beta_{cd} = 100\)  
-- \(\displaystyle \alpha_{cd} \approx 0.9901\)
