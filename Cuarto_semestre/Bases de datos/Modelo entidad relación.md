@@ -18,3 +18,4 @@ La **cardinalidad** en bases de datos se refiere a la cantidad de instancias de 
     
 - **Muchos a Muchos (N:M):** Múltiples registros de una entidad pueden estar relacionados con múltiples registros de otra entidad. Por ejemplo, en una base de datos de estudiantes y cursos, un estudiante puede inscribirse en varios cursos y a la vez cada curso puede tener varios estudiantes inscritos. Normalmente, este tipo de relaciones se modela mediante una tabla intermedia (o de unión) para gestionar la complejidad.
 ## Normalización
+hola
