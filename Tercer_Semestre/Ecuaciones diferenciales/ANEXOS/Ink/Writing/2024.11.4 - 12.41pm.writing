@@ -1,0 +1,317 @@
+{
+	"meta": {
+		"pluginVersion": "0.2.6",
+		"tldrawVersion": "2.1.0",
+		"previewIsOutdated": true
+	},
+	"tldraw": {
+		"store": {
+			"document:document": {
+				"gridSize": 10,
+				"name": "",
+				"meta": {},
+				"id": "document:document",
+				"typeName": "document"
+			},
+			"page:3qj9EtNgqSCW_6knX2K9_": {
+				"meta": {},
+				"id": "page:3qj9EtNgqSCW_6knX2K9_",
+				"name": "Handwritten Note",
+				"index": "a1",
+				"typeName": "page"
+			},
+			"shape:writing-lines": {
+				"x": 0,
+				"y": 0,
+				"rotation": 0,
+				"isLocked": true,
+				"opacity": 1,
+				"meta": {
+					"savedH": 375
+				},
+				"type": "writing-lines",
+				"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+				"index": "a1",
+				"props": {
+					"x": 0,
+					"y": 0,
+					"w": 2000,
+					"h": 375
+				},
+				"id": "shape:writing-lines",
+				"typeName": "shape"
+			},
+			"shape:writing-container": {
+				"x": 0,
+				"y": 0,
+				"rotation": 0,
+				"isLocked": true,
+				"opacity": 1,
+				"meta": {
+					"savedH": 375
+				},
+				"type": "writing-container",
+				"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+				"index": "a1",
+				"props": {
+					"x": 0,
+					"y": 0,
+					"w": 2000,
+					"h": 375
+				},
+				"id": "shape:writing-container",
+				"typeName": "shape"
+			},
+			"shape:4LrMA9kCsJyimBMbW3jfd": {
+				"x": 113.52790002797579,
+				"y": 66.8103448275862,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:4LrMA9kCsJyimBMbW3jfd",
+				"type": "draw",
+				"props": {
+					"segments": [
+						{
+							"type": "free",
+							"points": [
+								{
+									"x": 0,
+									"y": -2.12,
+									"z": 0.22
+								},
+								{
+									"x": -2.12,
+									"y": 2.12,
+									"z": 0.54
+								},
+								{
+									"x": -2.12,
+									"y": 12.73,
+									"z": 0.71
+								},
+								{
+									"x": -2.12,
+									"y": 27.59,
+									"z": 0.84
+								},
+								{
+									"x": -2.12,
+									"y": 40.32,
+									"z": 0.89
+								},
+								{
+									"x": -2.12,
+									"y": 53.05,
+									"z": 0.94
+								},
+								{
+									"x": -2.12,
+									"y": 63.66,
+									"z": 0.93
+								},
+								{
+									"x": 0,
+									"y": 72.15,
+									"z": 0.78
+								}
+							]
+						}
+					],
+					"color": "black",
+					"fill": "none",
+					"dash": "draw",
+					"size": "m",
+					"isComplete": true,
+					"isClosed": false,
+					"isPen": true
+				},
+				"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+				"index": "a2",
+				"typeName": "shape"
+			},
+			"shape:QuThObKmo0G1ZEAVxEwqJ": {
+				"x": 128.38194667502486,
+				"y": 64.68836129186008,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:QuThObKmo0G1ZEAVxEwqJ",
+				"type": "draw",
+				"props": {
+					"segments": [
+						{
+							"type": "free",
+							"points": [
+								{
+									"x": 0,
+									"y": -2.12,
+									"z": 0.09
+								},
+								{
+									"x": -2.12,
+									"y": 6.37,
+									"z": 0.45
+								},
+								{
+									"x": -4.24,
+									"y": 19.1,
+									"z": 0.68
+								},
+								{
+									"x": -4.24,
+									"y": 31.83,
+									"z": 0.78
+								},
+								{
+									"x": -4.24,
+									"y": 44.56,
+									"z": 0.84
+								},
+								{
+									"x": -4.24,
+									"y": 57.29,
+									"z": 0.88
+								},
+								{
+									"x": -4.24,
+									"y": 70.03,
+									"z": 0.79
+								},
+								{
+									"x": -4.24,
+									"y": 76.39,
+									"z": 0.63
+								},
+								{
+									"x": -2.12,
+									"y": 78.51,
+									"z": 0.14
+								}
+							]
+						}
+					],
+					"color": "black",
+					"fill": "none",
+					"dash": "draw",
+					"size": "m",
+					"isComplete": true,
+					"isClosed": false,
+					"isPen": true
+				},
+				"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+				"index": "a3",
+				"typeName": "shape"
+			},
+			"shape:ZuUjNB_8DfDhdPH6oe17L": {
+				"x": 107.16178752383124,
+				"y": 138.9589183210378,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:ZuUjNB_8DfDhdPH6oe17L",
+				"type": "draw",
+				"props": {
+					"segments": [
+						{
+							"type": "free",
+							"points": [
+								{
+									"x": 0,
+									"y": 0,
+									"z": 0
+								},
+								{
+									"x": 4.24,
+									"y": 0,
+									"z": 0.56
+								},
+								{
+									"x": 12.73,
+									"y": -2.12,
+									"z": 0.75
+								},
+								{
+									"x": 23.34,
+									"y": 0,
+									"z": 0.83
+								},
+								{
+									"x": 44.56,
+									"y": 2.12,
+									"z": 0.94
+								},
+								{
+									"x": 65.78,
+									"y": 2.12,
+									"z": 0.93
+								},
+								{
+									"x": 70.03,
+									"y": 2.12,
+									"z": 0.88
+								},
+								{
+									"x": 80.64,
+									"y": 2.12,
+									"z": 0.61
+								},
+								{
+									"x": 87,
+									"y": 2.12,
+									"z": 0.14
+								}
+							]
+						}
+					],
+					"color": "black",
+					"fill": "none",
+					"dash": "draw",
+					"size": "m",
+					"isComplete": true,
+					"isClosed": false,
+					"isPen": true
+				},
+				"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
+				"index": "a4",
+				"typeName": "shape"
+			}
+		},
+		"schema": {
+			"schemaVersion": 2,
+			"sequences": {
+				"com.tldraw.store": 4,
+				"com.tldraw.asset": 1,
+				"com.tldraw.camera": 1,
+				"com.tldraw.document": 2,
+				"com.tldraw.instance": 24,
+				"com.tldraw.instance_page_state": 5,
+				"com.tldraw.page": 1,
+				"com.tldraw.instance_presence": 5,
+				"com.tldraw.pointer": 1,
+				"com.tldraw.shape": 4,
+				"com.tldraw.asset.bookmark": 1,
+				"com.tldraw.asset.image": 3,
+				"com.tldraw.asset.video": 3,
+				"com.tldraw.shape.group": 0,
+				"com.tldraw.shape.text": 1,
+				"com.tldraw.shape.bookmark": 2,
+				"com.tldraw.shape.draw": 1,
+				"com.tldraw.shape.geo": 8,
+				"com.tldraw.shape.note": 6,
+				"com.tldraw.shape.line": 4,
+				"com.tldraw.shape.frame": 0,
+				"com.tldraw.shape.arrow": 3,
+				"com.tldraw.shape.highlight": 0,
+				"com.tldraw.shape.embed": 4,
+				"com.tldraw.shape.image": 3,
+				"com.tldraw.shape.video": 2,
+				"com.tldraw.shape.writing-container": 0,
+				"com.tldraw.shape.writing-lines": 0
+			}
+		}
+	}
+}
