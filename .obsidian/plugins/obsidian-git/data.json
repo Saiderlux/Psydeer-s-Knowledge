@@ -29,7 +29,10 @@
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
+<<<<<<< HEAD
+=======
   "diffStyle": "split",
+>>>>>>> d80c45dbfb4ac7c29a36dd9ac4a5346a977a87be
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
