@@ -1,3 +1,4 @@
+
 Calcular el valor esperado y la varianza de una variable aleatoria de Bernoulli (p)
 
 $$\mu \sum xP(x)$$
@@ -38,6 +39,7 @@ $$ Si la moneda está cargada
 $$S=0.25$$
 
 ```handdrawn-ink
+
 {
 	"versionAtEmbed": "0.3.4",
 	"filepath": "Cuarto_semestre/Probabilidad_y_estadistica/ANEXOS/Ink/Drawing/2025.4.7 - 11.23am.drawing",
