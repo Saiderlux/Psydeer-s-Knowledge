@@ -1,1 +1,1 @@
-Hola amigos esta es una prueba para comprobar mi git
+Hola amigos esta es una prueba para comprobar mi git, Creo que ya lo pude arreglar por fin
