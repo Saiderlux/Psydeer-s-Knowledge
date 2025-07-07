@@ -29,10 +29,7 @@
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
-<<<<<<< HEAD
-=======
   "diffStyle": "split",
->>>>>>> d80c45dbfb4ac7c29a36dd9ac4a5346a977a87be
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -54,9 +51,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
-    "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
+    "gutterSpacingFallbackLength": 5
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }
