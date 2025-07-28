@@ -70,7 +70,7 @@ Para tres eventos, $A$, $B$ y $C$, se utiliza un diagrama de Venn con tres círc
 - Regiones donde ocurren **exactamente dos** eventos (por ejemplo, $A \cap B \setminus C$).
 - La región donde ocurren los **tres** eventos simultáneamente: $A \cap B \cap C$.
 
-![[Cuarto_semestre/Probabilidad_y_estadistica/ANEXOS/ANEXOS/Exalidraw/Diagramas]]
+![[Diagramas]]
 
 
 La **fórmula de inclusión-exclusión** para tres eventos es:
