@@ -83,3 +83,4 @@ Esta fórmula corrige el conteo múltiple de las intersecciones.
 
 
 ![[Diagramas de Venn 2025-04-10 18.21.59.excalidraw]]
+
