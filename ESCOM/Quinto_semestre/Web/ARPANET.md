@@ -1,0 +1,4 @@
+De sus siglas en inglés, Red de agencias de Proyectos de investigación Avanzadas (Arpa) fue la primera red informática en implementar la conmutación de paquetes y el conjunto de protocolos TCP/IP. COnstruida en 1969 como un medio resistente para enviar datos militares y conectar principales grupos de investigación en Estados Unidos de América.
+- **Propósito:**
+    
+    Su objetivo inicial era conectar computadoras de instituciones académicas y de investigación financiadas por la ARPA, creando un sistema de comunicación seguro y descentralizado que pudiera resistir un ataque.

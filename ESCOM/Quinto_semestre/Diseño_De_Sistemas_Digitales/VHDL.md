@@ -1,4 +1,4 @@
-**Definición:** Lenguaje de descripción de hardware (_VHSIC Hardware Description Language_) usado para modelar y programar circuitos digitales.
+\**Definición:** Lenguaje de descripción de hardware (_VHSIC Hardware Description Language_) usado para modelar y programar circuitos digitales.
 
 **Elementos que todo programa debe incluir:**
 
@@ -55,3 +55,6 @@ signal A, B, C : std_logic;
 A <= B and C;
 ```
 Aquí, `A` **siempre tomará** el valor de `B and C`. Esto es **concurrente**, ocurre fuera de un proceso y representa lógica combinacional.
+No solo asigna un valor binario, sino también asigna un voltaje
+
+REVISADO

@@ -115,9 +115,9 @@ end entity;
 ```vhdl
 architecture concurrente of comparador is
 begin
-    MA <= '1' when unsigned(DATO) > unsigned(REF) else '0';
-    ME <= '1' when unsigned(DATO) < unsigned(REF) else '0';
-    C  <= '1' when unsigned(DATO) = unsigned(REF) else '0';
+    MA <= '1' when (DATO) > (REF) else '0';
+    ME <= '1' when (DATO) < REF) else '0';
+    C  <= '1' when (DATO) = (REF) else '0';
 end architecture;
 ```
 
@@ -131,9 +131,9 @@ begin
         ME <= '0';
         C  <= '0';
 
-        if unsigned(DATO) > unsigned(REF) then
+        if (DATO) > (REF) then
             MA <= '1';
-        elsif unsigned(DATO) < unsigned(REF) then
+        elsif (DATO) < (REF) then
             ME <= '1';
         else
             C <= '1';
@@ -182,3 +182,4 @@ begin
 end architecture;
 
 ```
+REVISADO
