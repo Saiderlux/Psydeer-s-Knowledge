@@ -80,6 +80,16 @@ end a_prac1;
 
 ### Comparador de magnitud y decodificador a display
 
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.8.28 - 7.01am.drawing",
+	"width": 510,
+	"aspectRatio": 1.6248873096904721
+}
+```
+
+
 Esta tabla combina la lógica del comparador de magnitud con la codificación para el display de 7 segmentos. La primera columna muestra la relación entre DATO y REF. Las siguientes columnas indican la salida del comparador de magnitud (MA, ME, C) y la codificación para encender los segmentos del display (ABCDEFG). La codificación de los segmentos es para un display de cátodo común, ya que la tarjeta Tang Nano 9K usa este tipo de display donde la fuente da la corriente y se enciende con un alto lógico.
 
 | REF DATO   | MA  | ME  | C   | ABCDEFG |
