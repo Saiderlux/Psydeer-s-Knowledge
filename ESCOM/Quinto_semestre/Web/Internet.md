@@ -1,3 +1,3 @@
-El internet es una red global de redes. Se creó a partir de ARPANET (1969, su objetivo principal era conectar a investigadores y universidades).
+El internet es una red global de redes. Se creó a partir de [[ARPANET]] (1969, su objetivo principal era conectar a investigadores y universidades).
 Funciona gracias a un conjunto de protocolos de comunicación TCP/IP, que permiten que computadoras y servidores de todo el mundo se comuniquen.
 Internet no es la [[Web]], es la infraestructura: cables submarinos, satélites, routers, centros de datos, servidores, etc.

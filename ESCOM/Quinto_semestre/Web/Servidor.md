@@ -1,0 +1,1 @@
+Ordenador que almacena los archivos y datos de un sitio o [[Aplicación web]], diseñado para responder a las solicitudes de los usuarios, sin importar cuando se reciban o de donde proceden.
